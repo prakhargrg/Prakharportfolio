@@ -30,6 +30,15 @@ This is a professional portfolio website designed to:
 
 **Live Demo:** Deploy using the instructions below to view the portfolio online.
 
+Future Workflow
+Every time you make changes:
+
+Edit files in your project
+Stage changes --> git add .
+Commit with message --> git commit -m "Describe what you changed"
+Push to GitHub -->git push
+
+
 ---
 
 ## ✨ Features
